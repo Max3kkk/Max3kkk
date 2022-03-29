@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development, quantum computing and marathon running)
 - 🌱 I’m currently learning quantum computing, mobile development and machine learning
 - 💞️ I’m looking to collaborate on creation of open-source software, games...
-- 📫 You can reach me via Email: fedorovm093@gmail.com or Telegram: @michealka
+- 📫 You can reach me via Email: fedorovm093@gmail.com or Telegram: [@michealka](https://t.me/Michealka)
 
 <!---
 Max3kkk/Max3kkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
